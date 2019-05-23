@@ -4,7 +4,7 @@ Cette page est un support complémentaire du projet du club Robotik organisé da
 
 ## Documents
 
-Vous pourrez trouver un document PDF intitulé "Ressources pour la création d'un robot". Vous pourrez trouver les supports des séances afin d'avoir des explications pas-à-pas des montages afin de pouvoir les reproduire. Ces séances comportent plusieurs thématiques :
+Vous pourrez trouver un document PDF intitulé "Ressources_pour_la_creation_d'un_robot". Vous pourrez trouver les supports des séances afin d'avoir des explications pas-à-pas des montages afin de pouvoir les reproduire. Ces séances comportent plusieurs thématiques :
 * Des montages d'électronique analogique (pas de carte programmable)
 * Des montages d'électronique numérique (avec une carte Arduino nano)
 * Des exercices d'algorithmie appliqués aux montages d'électronique numérique et au robot
@@ -20,9 +20,9 @@ Le code disponible est un exemple montrant l'utilisation d'une partie des foncti
 * D'autres exemples de code seront ajoutés, avec plus de commentaires.
 * Une mise à jour de la documentation
 
-## Auteurs
+## Auteur
 
-Romain THOMAS
+Romain THOMAS - romain.thomas1@utt.fr
 
 ## Licence
 
